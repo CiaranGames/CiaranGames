@@ -17,16 +17,16 @@
 </div>
 
 # About Me 🚀
-<p>If you skipped the above bit, I'm Ciaran! An enthusiastic and ambitious full stack  developer. I'm looking for any and all new challenges that help me expand and learn new things. I'm currently looking to enter the Data Science field.</p>
+<p>If you skipped the above bit, I'm Ciaran! An enthusiastic and ambitious full-stack  developer. I'm looking for any new challenges that help me expand and learn new things. I'm currently looking to enter the Data Science field.</p>
 
 ### My Achievements 🏆
 <ul>
-  <li>Founder and CTO of MyTeslaPower. An energy management solutions to drastically decrease payback period of Tesla Powerwalls</li>
+  <li>Founder and CTO of MyTeslaPower. An energy management solution to drastically decrease the payback period of Tesla Powerwalls</li>
   <li>Programming for 7+ years.</li>
-  <li>Shipped over 11+ projects, shown to thounsands of users a month.</li>
+  <li>Shipped over 11+ projects, shown to thousands of users a month.</li>
 </ul>
 
-### Things I know 🏆
+### What I've mastered 💪
 <a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/CiaranGames/CiaranGames/blob/main/icons/Python.png" height="42"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://github.com/CiaranGames/CiaranGames/blob/main/icons/HTML5.png" height="42"></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS 3" title="CSS 3" src="https://github.com/CiaranGames/CiaranGames/blob/main/icons/CSS.png" height="42"></a>
