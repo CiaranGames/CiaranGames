@@ -1,4 +1,6 @@
-![Cool header](https://github.com/CiaranGames/CiaranGames/blob/main/images/header.gif)
+<div align="center">
+  <img src="https://github.com/CiaranGames/CiaranGames/blob/main/images/header.gif">
+</div>
 
 <h3 align="center">
   Hey! Im Ciaran 👋
