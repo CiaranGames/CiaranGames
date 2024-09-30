@@ -1,3 +1,5 @@
+![Cool header](https://github.com/CiaranGames/CiaranGames/blob/main/images/header.gif)
+
 <h3 align="center">
   Hey! Im Ciaran 👋
 </h3>
