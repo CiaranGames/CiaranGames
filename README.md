@@ -25,6 +25,7 @@
 
 ### My Achievements 🏆
 <ul>
+  <li>Co-Founder and CTO of MetaClip. Check it out at <a href="https://metaclip.app">metaclip.app</a></li>
   <li>Founder and CTO of MyTeslaPower. An energy management solution to drastically decrease the payback period of Tesla Powerwalls</li>
   <li>Programming for 7+ years.</li>
   <li>Shipped over 11+ projects, shown to thousands of users a month.</li>
